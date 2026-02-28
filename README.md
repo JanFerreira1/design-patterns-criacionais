@@ -9,4 +9,7 @@ Este repositório contém a implementação dos seguintes padrões:
 Java
 
 ## Objetivo
-Demonstrar o entendimento dos padrões criacionais e sua aplicação prática.
+Demonstrar o entendimento teórico e prático dos padrões criacionais, evidenciando:
+- O problema que cada padrão resolve
+- Como ele propõe a solução
+- Aplicação prática com código funcional
