@@ -1,5 +1,3 @@
-# design-patterns-criacionais
-
 # Padrões de Projeto Criacionais
 
 Este repositório contém a implementação dos seguintes padrões:
