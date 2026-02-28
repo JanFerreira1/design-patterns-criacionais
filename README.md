@@ -6,7 +6,7 @@ Este repositório contém a implementação dos seguintes padrões:
 - Builder
 
 ## Linguagem utilizada
-Java
+- Java
 
 ## Objetivo
 Demonstrar o entendimento teórico e prático dos padrões criacionais, evidenciando:
