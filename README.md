@@ -1,15 +1,11 @@
 # Padrões de Projeto Criacionais
 
-Este repositório contém a implementação dos seguintes padrões:
+Este repositório contém a implementação prática de dois padrões de projeto criacionais em Java.
+
+Padrões implementados:
 
 - Factory Method
 - Builder
-
-## Linguagem utilizada
-- Java
-
-## Objetivo
-Demonstrar o entendimento teórico e prático dos padrões criacionais, evidenciando:
-- O problema que cada padrão resolve
-- Como ele propõe a solução
-- Aplicação prática com código funcional
+  
+Aluno: Janderson Ferreira  
+Curso: Análise e Desenvolvimento de Sistemas
